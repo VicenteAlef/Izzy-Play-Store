@@ -5,7 +5,7 @@ Ainda em desenvolvimento.
 
 ## Visite o Site
 
-[Issy Play Site](https://izzy-play-store-vicente-silvas-projects.vercel.app/)
+[Izzy Play Site](https://izzy-play-store-vicente-silvas-projects.vercel.app/)
 
 ## Futuras features
 
